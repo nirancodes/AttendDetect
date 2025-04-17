@@ -1,6 +1,6 @@
 # AttendDetect 🎥🧑‍💼
 
-A real-time, face-detection-based attendance system for virtual or hybrid workplaces. Detects presence, absence, unauthorized attendees, and automatically logs and records session data — no manual check-ins needed.
+Improvised throughout 2024, this is a real-time, face-detection-based attendance system for virtual or hybrid workplaces. (Initially, it was designed to use at student clubs at my school due to some experiencing low attendance levels despite a high number of registrations.) Detects presence, absence, unauthorized attendees, and automatically logs and records session data — no manual check-ins needed.
 
 > Built with OpenCV and C++ | Audio feedback using Windows API | No third-party backend needed
 
