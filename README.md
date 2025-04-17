@@ -40,12 +40,12 @@ A real-time, face-detection-based attendance system for virtual or hybrid workpl
    cd AttendDetect
 
 #### For a Quick Test: 
-Enter login credentials:
-Username: host123
-Password: event123
-Set the number of employees (e.g., 4)
-Turn your webcam on and try the following:
-✅ Sitting alone (detects 1 person)
-✅ Bringing others into view (detects multiple)
-✅ Press r to start or stop video recording
-✅ Press q to quit the session
+- Enter login credentials:
+- Username: host123
+- Password: event123
+- Set the number of employees (e.g., 4)
+- Turn your webcam on and try the following:
+- ✅ Sitting alone (detects 1 person)
+- ✅ Bringing others into view (detects multiple)
+- ✅ Press r to start or stop video recording
+- ✅ Press q to quit the session
