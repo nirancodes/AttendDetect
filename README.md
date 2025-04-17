@@ -27,7 +27,7 @@ A real-time, face-detection-based attendance system for virtual or hybrid workpl
 
 - Windows machine with:
   - C++ Compiler (Visual Studio recommended)
-  - [OpenCV installed and configured](https://docs.opencv.org/)
+  - OpenCV installed and configured
   - Webcam
 - Haar Cascade XML file in root folder (`haarcascade_frontalface_default.xml`)
 - `success.wav` and `chime.wav` in the `/assets` folder
